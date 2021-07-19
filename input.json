@@ -1,0 +1,33 @@
+{
+    "goToDir": "/download",
+    "hrsmins": [
+        {
+            "hour": 14,
+            "minute": 4
+        },
+        {
+            "hour": 14,
+            "minute": 10
+        },
+        {
+            "hour": 14,
+            "minute": 14
+        },
+        {
+            "hour": 14,
+            "minute": 16
+        },
+        {
+            "hour": 14,
+            "minute": 19
+        },
+        {
+            "hour": 14,
+            "minute": 21
+        },
+        {
+            "hour": 14,
+            "minute": 25
+        }
+    ]
+}
